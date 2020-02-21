@@ -1,0 +1,22 @@
+{
+    "name": "frontend-project-lvl1_ashfox",
+    "version": "1.0.0",
+    "description": "First project on hexlet",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "module",
+        "url": "git+https://github.com/ashfox21/frontend-project-lvl1.git"
+    },
+    "author": "Vladislav Luchko",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ashfox21/frontend-project-lvl1/issues"
+    },
+    "homepage": "https://github.com/ashfox21/frontend-project-lvl1#readme",
+    "bin": {
+        "brain-games": "bin/brain-games.js"
+    }
+}
